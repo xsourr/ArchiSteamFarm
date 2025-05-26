@@ -1,0 +1,7 @@
+{
+  "SteamLogin": "%STEAM_LOGIN%",
+  "SteamPassword": "%STEAM_PASSWORD%",
+  "Enabled": true,
+  "GamesPlayedWhileIdle": [730, 570],
+  "AutoSteamSaleEvent": true
+}
